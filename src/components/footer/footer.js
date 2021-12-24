@@ -8,7 +8,7 @@ export default props => (
     <>
         <section className="footer">
             <h4 className="footer__txt">
-            <a rel="noopener noreferrer" target="_blank" href="https://www.github.com/ygev/yg.is" className="footer__txt--link">Open-Source Portfolio</a> · My Heart Belongs to <a rel="noopener noreferrer" target="_blank" href="https://amandayeh.com" ><img className="footer__img" src={cat} alt="Gif of vibing cat."/></a>
+            <a rel="noopener noreferrer" target="_blank" href="https://www.tamu.edu/" className="footer__txt--link">Extra Link</a> · Merry Christmas! <a rel="noopener noreferrer" target="_blank" href="https://amandayeh.com" ><img className="footer__img" src={cat} alt="Gif of vibing cat."/></a>
             </h4>
         </section>
     </>

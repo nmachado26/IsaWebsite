@@ -73,6 +73,12 @@
   transition: 200ms ease-in-out;
 }
 
+/*proj 2 color*/
+:root .proj2 {
+  --projcolor: #1e1f27;
+  transition: 200ms ease-in-out;
+}
+
 /* Cluse Color */
 :root .cluse {
   --projcolor: rgb(70, 159, 255);
