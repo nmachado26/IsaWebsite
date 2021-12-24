@@ -36,7 +36,7 @@ function buildMoreProjects(projects){
     var moreProjects = [];
     for (var i=0; i < projectNames.length; i++){
         moreProjects.push(
-                <Link to={projectNames[i]}>
+                <Link to={'/'+projectNames[i]}>
                     <figure className="more__item">
                         <img className="more__img" src={images[projectNames[i]]} alt=""/>
                         <figcaption className="more__title">{projects[projectNames[i]].heroTitle}</figcaption>
