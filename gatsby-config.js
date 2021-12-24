@@ -6,7 +6,7 @@ module.exports = {
       description:
         "Design, theory and plain old hacking.",
       url: "https://www.yg.is",
-      image: "/images/logo.png",
+      image: "/images/personalLogo.png",
     },
     plugins: [
       `gatsby-plugin-transition-link`

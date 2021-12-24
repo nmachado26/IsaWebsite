@@ -37,7 +37,7 @@ class Index extends React.Component {
             <Header mouseOverCallback={this.handleHeaderHover}/>
             <HomeHero currentHover={this.state.currentName}/>
             <HomeTxt  currentHover={this.state.currentName}
-                      projects={['proj1', 'proj2', 'cluse']}
+                      projects={['proj1', 'proj2', 'proj3']}
                       mouseOverCallback={this.handleProjectHover}/>
           </div>
           <Contact/>

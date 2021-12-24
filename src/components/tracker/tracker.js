@@ -2,7 +2,7 @@ import React from "react";
 import "./tracker.css";
 import "../../css/normalize.css";
 import "../../css/global.css";
-import logo from "../../images/logo.svg"
+import logo from "../../images/personalLogo.svg"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
 import { Controller, Scene } from "react-scrollmagic"
 

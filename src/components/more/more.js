@@ -11,6 +11,7 @@ import defaultHero from "../../images/hero.gif"
 import phisherHero from "../../pages/phisher/images/hero.png"; 
 import proj1Hero from "../../pages/proj1/images/proj1hero.png"; 
 import proj2Hero from "../../pages/proj2/images/proj2hero.png"; 
+import proj3Hero from "../../pages/proj3/images/proj3hero.png"; 
 import cluseHero from "../../pages/cluse/images/hero.png"; 
 import dittoHero from "../../pages/ditto/images/hero.png"; 
 import trunksHero from "../../pages/trunks/images/hero.png"; 
@@ -20,6 +21,7 @@ var images = {
     default: defaultHero,
     proj1: proj1Hero,
     proj2: proj2Hero,
+    proj3: proj3Hero,
     phisher: phisherHero,
     cluse: cluseHero,
     ditto: dittoHero,
@@ -28,7 +30,7 @@ var images = {
 }
 
 //idk what this does
-var projectNames= ['proj1', 'proj2']
+var projectNames= ['proj1', 'proj2', 'proj3']
 
 function buildMoreProjects(projects){
     var moreProjects = [];

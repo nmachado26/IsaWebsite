@@ -20,6 +20,13 @@ export const Constants = {
         heroDeliverable: "Proj2 Site",
         heroTitle: "Proj 2 longer title hello world",
     },
+    proj3: {
+        heroName:"Proj3",
+        heroCategory: "UX Design",
+        heroYear: "2019",
+        heroDeliverable: "Proj3 Site",
+        heroTitle: "Proj 3 longer title hello world",
+    },
     cluse: {
         heroName:"Cluse",
         heroCategory: "Software Design",

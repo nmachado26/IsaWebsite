@@ -71,6 +71,7 @@
     border-top: 2px var(--black) solid;
     padding-top: 16px;
     padding-bottom: 16px;
+    padding-left: 32px;
     font-family: Chapeau-Medium;
     font-weight: 500;
     font-size: 20px;
